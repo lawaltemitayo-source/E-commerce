@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    color: #007bff;
+}
+
+.card {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.footer {
+    background-color: #343a40;
+}
+
+.footer .form-control {
+    background-color: #ffffff;
+    color: #495057;
+}
+
+.footer .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
